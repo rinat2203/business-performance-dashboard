@@ -22,3 +22,7 @@ Interactive Power BI dashboard for analyzing business performance, sales trends,
 - Business intelligence analysis
 - Data transformation
 - Analytical storytelling
+
+## Dashboard Screenshots
+
+![Executive Overview](./scr.jpg)
